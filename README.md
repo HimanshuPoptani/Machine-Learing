@@ -12,3 +12,7 @@ NumPy was created in 2005 by Travis Oliphant. It is an open source project and y
 NumPy stands for Numerical Python
 
 # Pandas
+This is a DATASET python framwork very important in terms if you wonna become a data Anylyst
+
+# START live Jupyter Notebook for this Code
+https://mybinder.org/v2/gh/HimanshuPoptani/Machine-Learing.git/master
