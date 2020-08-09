@@ -16,3 +16,4 @@ This is a DATASET python framwork very important in terms if you wonna become a 
 
 # START live Jupyter Notebook for this Code
 https://mybinder.org/v2/gh/HimanshuPoptani/Machine-Learing.git/master
+NOTE: Have patience, this may take some moments to initiat
