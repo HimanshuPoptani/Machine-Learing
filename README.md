@@ -13,6 +13,7 @@ NumPy stands for Numerical Python
 
 # Pandas
 This is a DATASET python framwork very important in terms if you wonna become a data Anylyst
+This also has many applications in Machine Learning process
 
 # START live Jupyter Notebook for this Code
 WARNING: This link will take you the live example of this GIT code, don't make any changes and save it this will never be reset then
